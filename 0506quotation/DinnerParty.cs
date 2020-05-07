@@ -8,6 +8,9 @@ namespace _0506quotation
 {
     class DinnerParty
     {
+        /// <summary>
+        /// party for dinner
+        /// </summary>
         public const int CostOfFoodPerPerson = 25;
 
         // 使用原來的public 會產生bug 讓裝飾價格一直是舊的數據
